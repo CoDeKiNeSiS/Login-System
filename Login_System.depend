@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630972331 source:/Users/TeLeKiNeSiS/Desktop/CPlusPlus/Login_System/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
